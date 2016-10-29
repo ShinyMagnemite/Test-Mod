@@ -4951,3 +4951,12 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.core.resources 4 77 2016-10-29 02:05:57.765
+!MESSAGE Cannot move '/Minecraft/src/main/java'. Destination should not be under source's hierarchy.
+
+!ENTRY org.eclipse.core.resources 4 566 2016-10-29 02:38:53.601
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+
+!ENTRY org.eclipse.core.jobs 4 1 2016-10-29 02:38:53.659
+!MESSAGE Worker thread ended job: Refreshing workspace(10), but still holds rule: ThreadJob(Refreshing workspace(10),[F/Minecraft/build/tmp/recompSrc/net/minecraft/world/gen])

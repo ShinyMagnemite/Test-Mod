@@ -1,0 +1,5 @@
+package com.shinymagnemite.testmod.proxies;
+
+public class CommonProxy {
+
+}

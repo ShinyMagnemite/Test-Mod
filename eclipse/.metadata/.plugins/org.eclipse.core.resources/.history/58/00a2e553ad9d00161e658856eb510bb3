@@ -1,0 +1,6 @@
+package com.shinymagnemite.testmod.help;
+
+public class ClientProxy extends CommonProxy
+{
+
+}

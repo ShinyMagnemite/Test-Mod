@@ -1,5 +1,7 @@
 package com.shinymagnemite.testmod.help;
 
+import com.shinymagnemite.testmod.lib.Reference;
+
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
